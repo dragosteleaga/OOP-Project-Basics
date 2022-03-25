@@ -1,1 +1,1 @@
-# OOP-Projects-
+# OOP-Project-Finance Manager app(RO)
